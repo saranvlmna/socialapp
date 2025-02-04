@@ -1,0 +1,22 @@
+o)user signup
+o)user login
+o)user update
+o)user deletion
+
+o)post creation
+o)post update
+o)post delete
+o)list all post
+o)list user post
+
+o) user module
+o) post module
+o) user table and post table with migration
+
+
+python fastapi frame work,
+sqlalcamy orm , alambic migration manager
+
+
+
+
