@@ -19,4 +19,5 @@ sqlalcamy orm , alambic migration manager
 
 
 
-
+)pip install -r requirements
+)uvicorn main:app --host 127.0.0.1 --port 4578
