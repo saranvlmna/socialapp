@@ -18,6 +18,10 @@ python fastapi frame work,
 sqlalcamy orm , alambic migration manager
 
 
-
+)python -m venv venv
+)venv/Scripts/activate
+)pip install fastapi uvicorn\
+)pip freeze > requirements.txt
 )pip install -r requirements
 )uvicorn main:app --host 127.0.0.1 --port 4578
+
